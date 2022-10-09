@@ -15,7 +15,7 @@
 
         public enum eCarColor
         {
-            Red = 2,
+            Red = 1,
             Silver,
             White,
             Black
